@@ -3799,6 +3799,56 @@
       "mode": "afternoon",
       "fp": "india locks down new delhi and rounds up youth protest",
       "date": "2026-10-10"
+    },
+    {
+      "headline": "Houthi airport strike pushes Middle East toward wider war",
+      "summary": "Houthi forces fired missiles at Riyadh's main international airport, hurting dozens of people and grounding flights. Washington is now weighing joint air strikes with Saudi Arabia to push the group back from vital Red Sea waterways. It is like throwing a lit match into an already dry forest, threatening sea corridors that carry much of the world's energy and goods.",
+      "why": "Choking off Red Sea transit acts like a massive roadblock on global trade, sending fuel and grocery prices higher everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "houthi airport strike pushes middle east toward wider war",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Category 4 Hurricane Simon bears down on Mexico",
+      "summary": "Hurricane Simon rapidly gathered power over warm ocean waters, reaching Category 4 strength with 150-mile-per-hour winds. Weather services warn the storm will bring destructive storm surges, mudslides, and power outages to coastal towns. The emergency comes right as parts of the American South are still picking up the pieces from Hurricane Isaias.",
+      "why": "Supercharged storms wipe out local power grids and food supplies in hours, leaving poor communities with damage bills they cannot afford.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "category 4 hurricane simon bears down on mexico",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "U.S. leadership clashes with Ukraine over Russian oil strikes",
+      "summary": "President Trump urged Ukraine to stop striking Russian oil refineries and suggested Kyiv replace its leader, blaming the attacks for rising diesel costs. Meanwhile, American lawmakers are pushing back against deals to buy Russian fuel to cool domestic inflation. This public clash shows how energy bills at home are starting to crack Western support for the war.",
+      "why": "If allies pull the plug on military aid over fuel prices, Ukraine's front lines could buckle and reshape security for all of Europe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s leadership clashes with ukraine over russian oil strikes",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Gaza ceasefire stalls as Palestinian elections are delayed again",
+      "summary": "A year after a U.S.-backed truce, aid groups warn that strikes continue and Gaza remains in ruins. At the same time, Palestinian Authority President Mahmoud Abbas postponed national elections to 2027, marking over two decades without a public vote. Ordinary families are left living in rubble with no say in who governs them or how rebuilding happens.",
+      "why": "Without legitimate leadership or a real political horizon, millions of people stay trapped in limbo and the region remains primed for another war.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "gaza ceasefire stalls as palestinian elections are delayed again",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Navi Pillay wins Nobel Peace Prize for human rights work",
+      "summary": "South African jurist Navi Pillay won the 2026 Nobel Peace Prize for her long career defending human rights. She spent decades battling apartheid and leading United Nations courts that punished war criminals. The prize lands at a moment when global powers are increasingly ignoring international law and walking away from treaty courts.",
+      "why": "It puts a bright spotlight on global justice right when the world's strongest governments are treating international rules as optional.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "navi pillay wins nobel peace prize for human rights work",
+      "date": "2026-10-10"
     }
   ]
 }
