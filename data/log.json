@@ -3709,6 +3709,56 @@
       "mode": "monitor",
       "fp": "deadly missile strike on riyadh airport escalates middle east conflict",
       "date": "2026-10-11"
+    },
+    {
+      "headline": "Missile strike on Riyadh airport threatens wider Middle East war",
+      "summary": "Houthi forces fired missiles into Saudi Arabia's main airport in Riyadh, killing 12 people and halting flights. At the same time, the US military disabled a cargo ship defying an Iran blockade in the Gulf of Oman. Washington is now openly weighing direct air strikes alongside Saudi forces in Yemen.",
+      "why": "If this spiral closes regional shipping lanes, shipping costs and gas prices will jump around the world almost immediately.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "missile strike on riyadh airport threatens wider middle east war",
+      "date": "2026-10-11"
+    },
+    {
+      "headline": "US pushes Russia fuel pact while publicly breaking with Ukraine",
+      "summary": "The White House signaled a sharp break with Kyiv, suggesting Ukraine replace President Zelenskyy after Ukrainian drones hit Russian oil sites. The dispute centers on a controversial deal to buy Russian diesel, which has triggered pushback from US lawmakers and foreign allies. It marks a sudden reversal in American wartime alliances.",
+      "why": "Pulling the rug out from Ukraine redraws the map of European security and scrambles global energy trade.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us pushes russia fuel pact while publicly breaking with ukraine",
+      "date": "2026-10-11"
+    },
+    {
+      "headline": "Heavy fighting erupts again across northern Ethiopia",
+      "summary": "Troops have clashed in the Tigray region again, with Ethiopian forces recapturing Adigrat following an incursion by Eritrean forces. The United Nations warned of a catastrophic new cycle of violence and pleaded for calm. Millions of families in the area are already cut off from food, power, and basic medical aid.",
+      "why": "",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "heavy fighting erupts again across northern ethiopia",
+      "date": "2026-10-11"
+    },
+    {
+      "headline": "White House freezes green card sponsorships for top tech firms",
+      "summary": "The US administration halted green card applications through big tech companies, alleging that firms abuse work visa rules. The sudden pause leaves thousands of foreign software engineers and researchers stranded in immigration limbo. Industry leaders warn the policy will starve artificial intelligence labs and chip projects of essential talent.",
+      "why": "",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "white house freezes green card sponsorships for top tech firms",
+      "date": "2026-10-11"
+    },
+    {
+      "headline": "Untitled",
+      "summary": "",
+      "why": "A fresh war inside Africa's second most populous nation risks famine, mass displacement, and chaos across the Horn of Africa.",
+      "domain": "Society",
+      "severity": "LOW",
+      "mode": "morning",
+      "fp": "untitled",
+      "date": "2026-10-11"
     }
   ]
 }
