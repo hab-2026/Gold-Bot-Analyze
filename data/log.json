@@ -3759,6 +3759,16 @@
       "mode": "morning",
       "fp": "untitled",
       "date": "2026-10-11"
+    },
+    {
+      "headline": "Deadly missile strike shuts Riyadh airport as regional war escalates",
+      "summary": "A ballistic missile attack struck King Khalid International Airport in Saudi Arabia's capital, killing 12 people and wounding more than 300. Flights were halted, and Yemen's Houthis warned global airlines to stay away from Saudi airspace. Meanwhile, US forces struck and disabled a commercial ship trying to break a naval blockade near Iran.",
+      "why": "Hitting a country's main commercial airport is like tossing a match into a dry forest. It is the deadliest attack inside Saudi Arabia in years. Saudi leaders have promised major retaliation, and the White House says it may join direct combat strikes, dramatically raising the odds of a wider war across the Gulf.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "deadly missile strike shuts riyadh airport as regional war escalates",
+      "date": "2026-10-11"
     }
   ]
 }
