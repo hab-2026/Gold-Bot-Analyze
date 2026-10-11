@@ -3699,6 +3699,16 @@
       "mode": "monitor",
       "fp": "u s waives russian oil sanctions in surprise fuel pact",
       "date": "2026-10-11"
+    },
+    {
+      "headline": "Deadly Missile Strike on Riyadh Airport Escalates Middle East Conflict",
+      "summary": "A missile strike blamed on Yemen's Houthi forces hit King Khalid International Airport in Riyadh. At least 12 people died, including an American and several foreign travelers, and more than 300 were injured. Flights were grounded, and both Saudi Arabia and the United States are weighing military retaliation.",
+      "why": "Striking the main international airport in a nation's capital crosses a huge red line. It threatens to push the region from isolated cross-border skirmishes into open warfare, with direct American and Saudi counterstrikes on the table.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "deadly missile strike on riyadh airport escalates middle east conflict",
+      "date": "2026-10-11"
     }
   ]
 }
