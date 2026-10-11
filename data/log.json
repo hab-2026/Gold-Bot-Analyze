@@ -1,176 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Ukrainian Drones Hit Russia's Arctic Gas Heartland for the First Time",
-      "summary": "Ukrainian long-range drones flew roughly 3,000 kilometers into northern Siberia, striking an energy facility in Novy Urengoy. It is the deepest strike Kyiv has ever carried out inside Russian territory.",
-      "why": "This is a major military escalation that shows Russia's energy crown jewels are no longer out of reach. Opening up the Arctic as a battleground puts immense pressure on global gas supplies and significantly widens the conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "ukrainian drones hit russia s arctic gas heartland for the",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Crude Oil Surpasses $100 a Barrel as US-Iran Clashes Threaten Hormuz Shipping",
-      "summary": "Brent crude spiked past the symbolic $100 per barrel mark after clashes between the US and Iran escalated around the Strait of Hormuz, with new restrictions slapped on shipping and attacks hitting maritime routes.",
-      "why": "Roughly a fifth of the world's oil passes through this single maritime bottleneck. Surpassing $100 a barrel is a massive economic red flag that threatens to send global inflation soaring and squeeze everyday consumers worldwide.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "crude oil surpasses 100 a barrel as us iran clashes",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Drone Strikes Batter Ukrainian Cities and Energy Networks",
-      "summary": "Intense Russian missile and drone bombardments struck urban centers and electrical facilities across Ukraine, inflicting civilian casualties and widespread power cuts. On the battlefield, both sides are leaning heavily on automated drones, turning the conflict into an exhausting technological war of attrition. European leaders are warning that sustaining power and heating through the coming winter will require urgent new support.",
-      "why": "Beyond the human tragedy, a breakdown in Ukraine's energy grid risks triggering another massive refugee wave and deeper European energy instability.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "drone strikes batter ukrainian cities and energy networks",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Tensions Spike Around the Strait of Hormuz",
-      "summary": "Iran announced plans for new maritime restrictions in the Strait of Hormuz following repeated military skirmishes and missile strikes with the United States. Energy markets reacted immediately, pushing crude oil prices to a four-month high as commercial shippers hesitated to send tankers through the narrow channel. Regional mediators from Qatar and Oman are racing to keep the waterway open before traffic grinds to a halt.",
-      "why": "Think of this strait as the world economy's main artery; when it gets pinched, fuel and grocery bills go up everywhere.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "tensions spike around the strait of hormuz",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Record Heatwaves Strain Food and Power Grids",
-      "summary": "Climate monitoring agencies confirmed the summer of 2026 was the hottest on record across North America and Southern Europe. Prolonged blistering heat dried up reservoirs, battered grain crops, and pushed electrical grids close to emergency blackouts. City planners and farmers are now facing the reality that seasonal cooling infrastructure is failing to keep pace.",
-      "why": "Extreme heat is shifting from an occasional summer nuisance into a direct threat to basic water, food, and electricity supplies.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "record heatwaves strain food and power grids",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Washington and Beijing Maneuver Ahead of Crucial Trade Talks",
-      "summary": "Top trade negotiators from the United States and China are squaring off over technology tariffs, critical minerals, and export restrictions ahead of planned leadership meetings. Both nations want to shield their own factories and tech supply chains without triggering an all-out trade war that could tank growth. European and Asian allies are caught in the middle, scrambling to secure their own deals so they do not get squeezed out.",
-      "why": "The economic rules being hammered out right now decide where essential electronics get built and what households pay for them.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "washington and beijing maneuver ahead of crucial trade talks",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Insider Warnings Spark Renewed Push for AI Guardrails",
-      "summary": "Former researchers from major artificial intelligence labs publicly warned that next-generation models are developing autonomous capabilities faster than safety teams can test them. Lawmakers in Washington and Brussels are weighing mandatory safety checks before powerful new models can be launched to the public. Tech firms contend that strict slowdowns will merely hand the technological lead to foreign rivals.",
-      "why": "Handing complex, high-stakes tasks to autonomous systems without proven safety brakes could create systemic failures before humans can step in.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "insider warnings spark renewed push for ai guardrails",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Yemeni Rebels Seize Key Red Sea Port as US-Iran Clashes Intensify",
-      "summary": "Houthi forces took control of the strategic port town of Mocha along Yemen's coast, giving them greater leverage over vital shipping lanes. At the same time, direct military exchanges between the United States and Iran continue to escalate across the region. Regional energy corridors and maritime traffic now face their most severe danger in months.",
-      "why": "If ships cannot safely squeeze through this narrow marine doorway, global trade grinds to a crawl and everyday goods become much more expensive everywhere.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "yemeni rebels seize key red sea port as us iran",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Crude Oil Tops $100 a Barrel After Strikes on Middle East Facilities",
-      "summary": "Global oil prices surged past $100 a barrel following fresh military hits on regional energy facilities and rising threats to tankers. The price jump immediately squeezed energy-importing nations and unsettled financial markets. Central bankers warn that prolonged high fuel costs will undo recent progress on cooling consumer inflation.",
-      "why": "Surging oil acts like a surprise worldwide tax, quietly driving up the price of everything from groceries and shipping to factory electricity.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "crude oil tops 100 a barrel after strikes on middle",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Ukraine Strikes Deep into Russia's Arctic Gas Heartland",
-      "summary": "Ukrainian long-range drones struck energy facilities inside Russia's far northern Arctic, reaching infrastructure once considered untouchable. The attack targets the financial lifeblood that funds Moscow's war effort just as major powers push both sides toward ceasefire talks. Russia warned that attacking remote energy lifelines crosses a perilous new boundary.",
-      "why": "Hitting remote Arctic fuel hubs threatens Russia's main money machine and dramatically raises the stakes for any future peace settlement.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "ukraine strikes deep into russia s arctic gas heartland",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Western Allies Impose Fresh Sanctions on Israeli Settlements",
-      "summary": "European governments and Canada introduced coordinated sanctions against West Bank settlements, drawing a notably quiet response from Washington. At the same time, disagreements over postwar security and governance continue to delay rebuilding efforts across Gaza. The measures signal growing distance between traditional Western partners on how to resolve the conflict.",
-      "why": "Deeper diplomatic fractures among allies weaken international cooperation, leaving millions of displaced people trapped in political and humanitarian limbo.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "western allies impose fresh sanctions on israeli settlements",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "White House Floats $5,000 Voter Payouts Ahead of US Midterms",
-      "summary": "A proposal offering $5,000 cash dividends to Americans if the governing party wins the midterm elections has triggered fierce debate. Independent economists warn that pumping hundreds of billions of dollars into consumer hands risks reigniting stubborn inflation. The move marks an aggressive shift in how political campaigns use direct financial promises to influence voting.",
-      "why": "How the world's biggest economy manages its spending and debt ripples outward, directly altering interest rates and currency values worldwide.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "white house floats 5 000 voter payouts ahead of us",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "US and Iran trade strikes near Persian Gulf as oil tops $100",
-      "summary": "The US military attacked Iranian tankers and naval positions in the Strait of Hormuz, prompting Iran to launch ballistic missiles at an American base in Jordan. Iran is now preparing an exclusion zone to control shipping through the strait, which immediately sent crude oil prices past $100 a barrel. Both sides are walking on the edge of a wider war that neither can easily contain.",
-      "why": "Squeezing the world's primary oil artery is like pinching a garden hose, driving up the cost of food, fuel, and electricity across the globe.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and iran trade strikes near persian gulf as oil",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Earth posts hottest month on record as Indonesian forests burn",
-      "summary": "Climate monitors announced that August was the warmest month ever measured on the planet. At the same time, massive wildfires in Kalimantan and Sumatra released roughly 20 million tons of carbon in just seven days. Thick, hazardous haze is now sweeping across Southeast Asia, disrupting schools and hospital systems.",
-      "why": "Setting back-to-back global heat records shows that extreme weather is arriving faster than governments and crops can adapt.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "earth posts hottest month on record as indonesian forests burn",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Ukraine reveals $27 billion funding hole, testing European support",
-      "summary": "Kyiv surprised European leaders by announcing an immediate $27 billion gap in its defense budget. European capitals are now squabbling over whether to fast-track loans or touch frozen Russian bank assets to bridge the shortfall. The cash squeeze hits right as Russian forces ramp up aerial attacks on cities and border checkpoints.",
-      "why": "If funding runs dry, front-line defenses crack, forcing Europe to decide between paying a massive bill today or facing a wider security crisis tomorrow.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "ukraine reveals 27 billion funding hole testing european support",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "Houthi forces capture Mocha, threatening Red Sea shipping routes",
-      "summary": "Houthi fighters in Yemen took control of the strategic port city of Mocha, tightening their grip on the mouth of the Red Sea. The port sits right next to the Bab al-Mandab strait, a vital bottleneck that connects Asian factories to European consumers. Commercial shipping firms are already preparing to reroute vessels thousands of miles around Africa.",
-      "why": "Closing this marine shortcut adds weeks to supply chains, acting like an invisible tax on global trade.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "houthi forces capture mocha threatening red sea shipping routes",
-      "date": "2026-09-10"
-    },
-    {
-      "headline": "US and China scramble to set rules ahead of high-stakes summit",
-      "summary": "Negotiators from Washington and Beijing are setting the ground rules for an upcoming face-to-face summit between Donald Trump and Xi Jinping. The talks are focused on fragile compromises around farm imports and critical minerals, rather than a sweeping peace deal. Both sides want to stop sudden export bans and tariffs from derailing factory supply lines.",
-      "why": "When the world's two largest economies bump against each other, even small friction shakes up global manufacturing, jobs, and prices.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "us and china scramble to set rules ahead of high",
-      "date": "2026-09-10"
-    },
-    {
       "headline": "Houthi forces capture Yemen's Red Sea coast, choking global shipping lanes",
       "summary": "Houthi fighters have taken control of the strategic port of Mocha, securing Yemen's entire Red Sea coastline and the narrow Bab al-Mandeb strait. Saudi jets hit the local airport in response, while Iran reported striking an American robotic patrol vessel nearby. With coastal launch sites secured, the group now holds a direct line of sight over commercial vessels moving through the corridor.",
       "why": "It works like a padlock on a global shipping lane: when container ships are forced to detour around Africa, everyday fuel and grocery prices jump across the world.",
@@ -3849,6 +3679,26 @@
       "mode": "evening",
       "fp": "navi pillay wins nobel peace prize for human rights work",
       "date": "2026-10-10"
+    },
+    {
+      "headline": "Deadly missile barrage strikes Riyadh airport as U.S. weighs joining Yemen combat",
+      "summary": "A missile slammed into King Khalid International Airport in Riyadh, killing 12 people and injuring over 300. Flights shut down completely. President Trump said Washington is now actively considering joining Saudi Arabia in direct air strikes against Houthi forces in Yemen.",
+      "why": "This is a sharp military escalation. Hitting a major capital airport crosses a red line, and direct U.S. firepower threatens to pull America into a much broader shooting war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "deadly missile barrage strikes riyadh airport as u s weighs",
+      "date": "2026-10-11"
+    },
+    {
+      "headline": "U.S. waives Russian oil sanctions in surprise fuel pact and tells Ukraine to replace Zelenskyy",
+      "summary": "The U.S. granted emergency sanctions waivers so Russian diesel can enter global markets following a deal between Donald Trump and Vladimir Putin to lower pump prices. After Volodymyr Zelenskyy condemned the move, Trump publicly declared Ukraine needs a new president.",
+      "why": "This is a seismic government policy shift. It punches a hole through years of coordinated Western sanctions on Moscow and completely upends Washington's wartime alliance with Kyiv.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s waives russian oil sanctions in surprise fuel pact",
+      "date": "2026-10-11"
     }
   ]
 }
