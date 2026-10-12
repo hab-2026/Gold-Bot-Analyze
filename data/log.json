@@ -3619,6 +3619,16 @@
       "mode": "monitor",
       "fp": "saudi arabia s main airport hit for second day in",
       "date": "2026-10-12"
+    },
+    {
+      "headline": "Deadly Missile and Drone Strikes Hit Key Saudi Airports in Sharp Escalation",
+      "summary": "Yemen's Houthi forces launched repeated missile and drone attacks directly into Saudi Arabia's main passenger hubs, including King Khalid Airport in Riyadh and King Fahd Airport in Dammam. The strikes hit passenger terminals, killed at least 13 people, injured hundreds, and forced airport closures and flight groundings across the country.",
+      "why": "This is a dramatic military escalation that directly targets civilian air travel and capital infrastructure in the Gulf. Striking international airports in Riyadh and Dammam threatens to pull the United States and regional allies straight into active combat, while putting global energy supplies and critical transport routes on high alert.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "deadly missile and drone strikes hit key saudi airports in",
+      "date": "2026-10-12"
     }
   ]
 }
