@@ -3639,6 +3639,56 @@
       "mode": "monitor",
       "fp": "repeated missile strikes shut down riyadh airport and threaten wider",
       "date": "2026-10-12"
+    },
+    {
+      "headline": "US and Russia Strike Fuel Deal While Pressuring Kyiv",
+      "summary": "Washington agreed to ease fuel sanctions on Moscow in exchange for Russian diesel imports to bring down high fuel prices at home. Meanwhile, the White House pushed for new elections in Ukraine, while President Zelenskyy warned that Moscow is already violating an energy ceasefire. It feels like cutting a deal with a rival to keep your own lights on, even if it leaves an ally in the cold.",
+      "why": "It shows that kitchen-table energy costs can rapidly shift great-power diplomacy and weaken support for Ukraine on the battlefield.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us and russia strike fuel deal while pressuring kyiv",
+      "date": "2026-10-12"
+    },
+    {
+      "headline": "Mass Protests Erupt in New Delhi Over Voter Roll Cuts",
+      "summary": "Thousands of demonstrators marched through New Delhi after election officials purged more than 130 million names from the nation's voter lists. Opposition parties argue the cleanup unfairly targets their supporters, while authorities insist they are simply removing duplicate and inactive records. It is like updating a town registry and suddenly finding that an entire neighborhood lost its right to vote.",
+      "why": "Stripping millions of citizens from voter rolls challenges the integrity of and public trust in the world's most populous democracy.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "mass protests erupt in new delhi over voter roll cuts",
+      "date": "2026-10-12"
+    },
+    {
+      "headline": "NATO Commander Issues Direct Warning Over Russian Sabotage",
+      "summary": "NATO's top military commander stated at a security conference in Warsaw that allied forces will dismantle any system that attacks member nations. European governments are increasingly alarmed by shadowy sabotage operations, cyber incidents, and airspace incursions. It is like drawing a bright red line on the ground and warning that crossing it brings the whole house down.",
+      "why": "Even a minor miscalculation or border incident could drag dozens of allied nations into a direct confrontation with a nuclear power.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "nato commander issues direct warning over russian sabotage",
+      "date": "2026-10-12"
+    },
+    {
+      "headline": "Airport Strikes in Saudi Arabia Prompt Global Travel Warnings",
+      "summary": "Yemen's Houthi fighters launched strikes against Riyadh's international airport, damaging facilities and causing casualties. Several governments, including the US, Britain, and Australia, quickly told their citizens to avoid traveling to the kingdom. It shows that regional fighting has moved from distant borderlands straight into major commercial travel hubs.",
+      "why": "Targeting commercial air hubs threatens vital global aviation corridors and risks a wider flare-up across the Middle East.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "airport strikes in saudi arabia prompt global travel warnings",
+      "date": "2026-10-12"
+    },
+    {
+      "headline": "Economists Hall and Woodford Win Nobel for Crisis Management",
+      "summary": "The Nobel Prize in Economics went to American scholars Robert Hall and Michael Woodford for showing how policymakers can steer economies out of recessions and price spikes. Their models proved that everyday consumer expectations drive inflation just as much as government spending. Think of it like proving that steering a cruise ship works best when you plan for the wind before the waves hit.",
+      "why": "Their formulas guide how central banks move interest rates, directly shaping what ordinary families pay for mortgages, car loans, and credit cards.",
+      "domain": "Markets",
+      "severity": "MEDIUM",
+      "mode": "afternoon",
+      "fp": "economists hall and woodford win nobel for crisis management",
+      "date": "2026-10-12"
     }
   ]
 }
