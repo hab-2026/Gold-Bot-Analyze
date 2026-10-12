@@ -3609,6 +3609,16 @@
       "mode": "monitor",
       "fp": "deadly missile strike shuts riyadh airport as regional war escalates",
       "date": "2026-10-11"
+    },
+    {
+      "headline": "Saudi Arabia's Main Airport Hit for Second Day in a Row",
+      "summary": "Houthi forces launched another strike on Riyadh's international airport, following an attack a day earlier that killed 12 people and injured hundreds. The Saudi military says it is preparing to strike back.",
+      "why": "Firing directly into a major capital's airport two days running is a sharp military escalation. It puts international civilian flights at risk and threatens to ignite direct wider conflict in the Gulf.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia s main airport hit for second day in",
+      "date": "2026-10-12"
     }
   ]
 }
