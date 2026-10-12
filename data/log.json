@@ -3629,6 +3629,16 @@
       "mode": "monitor",
       "fp": "deadly missile and drone strikes hit key saudi airports in",
       "date": "2026-10-12"
+    },
+    {
+      "headline": "Repeated missile strikes shut down Riyadh airport and threaten wider regional conflict",
+      "summary": "Yemen's Houthi forces launched multiple missile and drone strikes directly into King Khalid International Airport in Riyadh, killing at least 13 people and injuring hundreds. The attacks forced the kingdom to halt flights at its primary international hub, while Washington announced it is weighing direct military strikes alongside Saudi Arabia.",
+      "why": "This is the deadliest attack on Saudi soil in over a decade and crosses a major red line by crippling civilian air travel in the capital. It dramatically escalates regional warfare, risks drawing the United States into direct combat operations, and has already pushed global oil prices above $105 a barrel.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "repeated missile strikes shut down riyadh airport and threaten wider",
+      "date": "2026-10-12"
     }
   ]
 }
