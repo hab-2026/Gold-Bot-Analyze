@@ -3609,6 +3609,56 @@
       "mode": "morning",
       "fp": "imf flags mounting debt and ai shocks at bangkok talks",
       "date": "2026-10-13"
+    },
+    {
+      "headline": "Russian strikes test a shaky energy truce in Ukraine",
+      "summary": "The White House announced a surprise deal to stop attacks on power plants, but heavy Russian missiles hit Ukrainian cities just hours later. Kyiv said it received no advance warnings from allies before the blasts, while cargo ships were struck in the Black Sea. It feels like both sides agreed to put down the matches while the room was already on fire.",
+      "why": "If power grids get knocked out right before winter, millions of ordinary people will face freezing homes and blackouts.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russian strikes test a shaky energy truce in ukraine",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Saudi airport shuts down as regional drone strikes flare up",
+      "summary": "New missile and drone barrages forced Saudi Arabia to close its main airport in Riyadh to keep flights safe. Meanwhile, Britain publicly accused Iran of directing a planned attack against an airbase used by American troops. The region's quiet patches are fraying as proxy attacks spread across key transport hubs.",
+      "why": "When travel and shipping halt around the Gulf, global oil flows get shaky and push up fuel prices for everyone.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "saudi airport shuts down as regional drone strikes flare up",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Europe rolls out its largest sanctions package yet on Russian tech",
+      "summary": "European governments approved penalties targeting roughly sixteen hundred businesses and middlemen that feed Russia's defense factories. The aim is to plug sneaky backdoors and stop Western microchips and machine parts from ending up in battlefield weapons. It is the toughest push so far to starve the war machine of critical supplies.",
+      "why": "Cutting off tech pipelines is Europe's biggest non-military lever to slow down the war and prevent it from grinding on for years.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "europe rolls out its largest sanctions package yet on russian",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Rising government borrowing rates put a squeeze on world growth",
+      "summary": "American government bond yields pushed toward twenty-year highs because big national debts and stubborn living costs will not go away. When safe government bonds pay high interest, loans for mortgages, business gear, and foreign nations suddenly get much pricier. It works like a heavy tap on the global economy's brakes.",
+      "why": "High borrowing costs make companies hold off on hiring and force cash-strapped countries to cut spending on everyday essentials.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "rising government borrowing rates put a squeeze on world growth",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Washington and Beijing test out a sixty-billion-dollar trade truce",
+      "summary": "The United States and China agreed to pause new trade fights and trim tariffs on sixty billion dollars in everyday goods like farm crops and home items. It is a rare breather, though neither side has resolved bitter fights over factory competition and computer chips. Think of it like cracking open a window for fresh air while keeping the front door bolted shut.",
+      "why": "Cheaper tariffs keep cross-border commerce moving and prevent basic store goods from getting more expensive for consumers.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "washington and beijing test out a sixty billion dollar trade",
+      "date": "2026-10-13"
     }
   ]
 }
