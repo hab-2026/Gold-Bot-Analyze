@@ -3559,6 +3559,56 @@
       "mode": "afternoon",
       "fp": "economists hall and woodford win nobel for crisis management",
       "date": "2026-10-12"
+    },
+    {
+      "headline": "Houthi Strikes on Saudi Hubs Threaten Wider Energy Shock",
+      "summary": "Drones and missiles hit Riyadh's international airport and key oil areas, killing 14 people and slipping past air defense systems. The strikes come as the fight between the US, Israel, and Iran spills across the wider region. The IMF warned that the expanding conflict could soon cause double-digit economic declines in several Gulf nations.",
+      "why": "Rocket attacks near major oil fields risk shutting down critical shipping routes and sending fuel bills soaring worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "houthi strikes on saudi hubs threaten wider energy shock",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Washington Eases Curbs on Russian Fuel and Blindsides Allies",
+      "summary": "The White House allowed new imports of Russian diesel to bring down domestic pump prices, pointing to an alleged energy ceasefire in Ukraine. Russian missiles continued pounding Ukrainian power stations, leaving Kyiv and European allies shocked by the unilateral move. European leaders warned that breaking sanctions discipline weakens the coalition against Moscow.",
+      "why": "Trading allied unity for cheaper gas creates a dangerous rift between the US and its closest partners.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "washington eases curbs on russian fuel and blindsides allies",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Covert Sabotage Hits European Shipping and Satellite Networks",
+      "summary": "A drone attack sank a commercial vessel off Bulgaria's Black Sea coast, while authorities in Poland and Germany arrested suspects tied to arson at Starlink satellite hubs. European officials point to covert Russian sabotage campaigns aimed at crippling transport and communications networks. The incidents reflect a growing pattern of hybrid warfare directed at civilian infrastructure behind frontlines.",
+      "why": "Shadow attacks against civilian cargo ships and communications networks make an accidental military escalation far more likely.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "covert sabotage hits european shipping and satellite networks",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Former Congo President Aligns with M23 Rebels",
+      "summary": "Former president Joseph Kabila entered a new political coalition alongside M23 rebels in the Democratic Republic of Congo. Eastern Congo is already gripped by heavy fighting that has displaced millions of families and pulled in regional armies. The alliance raises fears of a wider civil war across areas that produce the bulk of the world's battery minerals.",
+      "why": "A wider war in Congo triggers severe humanitarian suffering and threatens global supplies of minerals essential for clean tech.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "former congo president aligns with m23 rebels",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "IMF Flags Mounting Debt and AI Shocks at Bangkok Talks",
+      "summary": "Global finance chiefs met in Bangkok to assess the world's economic outlook amid geopolitical tensions. The IMF warned that historic government borrowing and rapid artificial intelligence adoption could destabilize financial markets. Rising energy volatility leaves heavily indebted countries with almost no financial cushion if another crisis hits.",
+      "why": "When governments carry massive debt piles, they lack the cash to shield workers if technology shifts trigger sudden job losses.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "imf flags mounting debt and ai shocks at bangkok talks",
+      "date": "2026-10-13"
     }
   ]
 }
