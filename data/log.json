@@ -3659,6 +3659,56 @@
       "mode": "afternoon",
       "fp": "washington and beijing test out a sixty billion dollar trade",
       "date": "2026-10-13"
+    },
+    {
+      "headline": "Tanker attacks and airport strikes rattle Gulf oil routes",
+      "summary": "A sharp wave of attacks has hit commercial tankers moving through the Strait of Hormuz, while drone strikes targeted Riyadh's international airport. Saudi forces responded with heavy air raids against launch sites and fuel depots. The flare-up directly threatens the narrow water passage that carries about a fifth of the planet's petroleum.",
+      "why": "If shipping through this tiny bottleneck stalls, everyday gas and shipping costs will spike around the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "tanker attacks and airport strikes rattle gulf oil routes",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Ukraine energy ceasefire claims unravel as strikes continue",
+      "summary": "Russia launched heavy ballistic missile strikes against Kyiv just after talk of an energy truce surfaced. President Volodymyr Zelenskyy said no real ceasefire exists on the ground and warned that Ukraine will keep striking Russian energy and data networks. Allied lawmakers are also pushing back against a proposed White House agreement to buy Russian diesel.",
+      "why": "Without a real halt to attacks on power plants, millions of people risk losing heat and electricity this winter.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine energy ceasefire claims unravel as strikes continue",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Canada fights to stay whole ahead of Alberta referendum",
+      "summary": "Prime Minister Mark Carney is making an urgent cross-country push to convince Canadians to stick together. The oil-rich province of Alberta is gearing up for a high-stakes referendum on breaking away after years of feuds over federal rules and energy revenues. Secession would split the nation geographically and fundamentally shake up North American commerce.",
+      "why": "A vote to break away would shatter Canadian stability and disrupt key energy pipelines feeding the continent.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "canada fights to stay whole ahead of alberta referendum",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "Pope Leo diagnosed with lung cancer after hospital surgery",
+      "summary": "The Vatican confirmed that doctors operated on Pope Leo to remove a lump from his lung and found it to be cancerous. Church officials say the procedure went smoothly and the pontiff is resting in stable condition. The diagnosis has quickly raised questions about the pace of his papacy and who will handle key duties while he recovers.",
+      "why": "The leader of 1.4 billion Catholics sets the moral tone on global diplomacy, and an abrupt health crisis creates sudden uncertainty at the top.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "pope leo diagnosed with lung cancer after hospital surgery",
+      "date": "2026-10-13"
+    },
+    {
+      "headline": "French school protests explode into nationwide unrest",
+      "summary": "Over 160,000 demonstrators, led by students, filled the streets across France for a third straight week. Marches turned into clashes with riot police in several cities, shutting down classrooms and clogging transit lines. The unrest is testing President Emmanuel Macron's administration as public frustration over education and cost of living boils over.",
+      "why": "Paralysis in Europe's second-biggest economy weakens political leadership at a time when the continent already faces deep economic strain.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "french school protests explode into nationwide unrest",
+      "date": "2026-10-13"
     }
   ]
 }
