@@ -3699,6 +3699,56 @@
       "mode": "morning",
       "fp": "canada freezes u s military deal as trade tensions flare",
       "date": "2026-10-14"
+    },
+    {
+      "headline": "Ships Sunk as Iran Tightens Chokehold on World Oil Route",
+      "summary": "Attacks in the Strait of Hormuz hit a dangerous peak today, with one cargo ship sunk and another going down after drone and mine strikes. Iran is trying to choke off this narrow waterway, which normally handles about a fifth of the world's petroleum. Commercial traffic has plunged, stranding vital trade and rattling global shipping networks.",
+      "why": "It is like putting a clamp on the world's main fuel line, which quickly pushes up prices for everything from gas to groceries everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ships sunk as iran tightens chokehold on world oil route",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Spike in Gas Costs Drives US Inflation Back Up to 3.7%",
+      "summary": "American consumer prices jumped at an annual pace of 3.7% in September as fuel costs suddenly shot up. The unexpected surge rattled stock markets, dragging down major indexes like the S&P 500 and Nasdaq. It also pours cold water on hopes that central bankers could keep cutting interest rates to help borrowers.",
+      "why": "When fuel gets expensive, transporting goods costs more, leaving everyday families with less money in their pockets.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "spike in gas costs drives us inflation back up to",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Russian Strikes Batter Ukraine's Power Grid Despite Truce Claims",
+      "summary": "Russian missiles struck Ukrainian electrical plants for a third consecutive night, ignoring claims by Washington that an energy ceasefire had been reached. Kyiv had paused its drone attacks on Russian refineries, but Moscow never formally signed on to the halt. With winter fast approaching, Ukrainian cities are once again staring down the threat of freezing blackouts.",
+      "why": "A peace deal that only one side honors leaves millions of ordinary people at risk of freezing without heat or light.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russian strikes batter ukraine s power grid despite truce claims",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Federal Raid on Lawmaker's Home Ignites Political Firestorm",
+      "summary": "Federal law enforcement agents conducted a surprise search of Representative Ilhan Omar's home. The raid prompted sharp warnings from the White House and furious accusations from Democrats that federal power is being weaponized. Happening just weeks before midterm elections, the move has drastically increased political tensions across Washington.",
+      "why": "When federal agents raid an elected official right before an election, it shakes public confidence in whether the justice system remains fair and neutral. constraints.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "federal raid on lawmaker s home ignites political firestorm",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Vatican Confirms Pope Leo Is Battling Lung Cancer",
+      "summary": "The Vatican announced that Pope Leo has lung cancer following recent surgery. Church officials report that he is resting peacefully in the hospital, but the diagnosis raises serious doubts about his physical capacity going forward. The news has sparked quiet anxiety across Rome and prompted early discussions about church leadership.",
+      "why": "The health of the Pope shapes moral guidance and global diplomacy for more than a billion people across the planet.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "vatican confirms pope leo is battling lung cancer",
+      "date": "2026-10-14"
     }
   ]
 }
