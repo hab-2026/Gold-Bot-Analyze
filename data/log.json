@@ -3759,6 +3759,56 @@
       "mode": "monitor",
       "fp": "commercial ships sunk in the strait of hormuz amid escalating",
       "date": "2026-10-14"
+    },
+    {
+      "headline": "Houthi Strikes Hit Key Saudi Airports and Oil Offices",
+      "summary": "Drones and missiles struck international airports in Riyadh and Dammam, killing over a dozen people and damaging executive offices tied to state oil giant Aramco. Saudi air defenses stopped several incoming weapons, but the strikes still pierced the kingdom's shield. Saudi officials have promised a forceful response as regional tensions spike.",
+      "why": "If attacks threaten Gulf oil hubs again, global fuel prices will shoot up like water from a burst pipe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "houthi strikes hit key saudi airports and oil offices",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Sudan's Civil War Deepens Famine Crisis After New Strikes",
+      "summary": "Deadly drone attacks struck civilian shelters and dormitories as the battle between Sudan's military factions intensified. The fighting has wrecked farm harvests and cut off food transport, pushing millions of people to the edge of starvation. Border regions in neighboring countries are struggling to absorb waves of desperate families fleeing the violence.",
+      "why": "It is quietly snowballing into one of the deadliest hunger emergencies in modern history and could pull neighboring African nations into the conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "sudan s civil war deepens famine crisis after new strikes",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Russia Hammers Ukraine's Power Grid as Truce Efforts Fray",
+      "summary": "Heavy Russian missile strikes battered Ukrainian power stations over consecutive nights, leaving major cities in the dark despite talk of an energy truce. Ukrainian troops faced the assault with spotty Starlink connections and without their usual early warning tips from Western partners. At the same time, friction is growing because Washington wants Kyiv to stop striking Russian refineries to keep world fuel prices down.",
+      "why": "Any breakdown in Western intelligence and tech support leaves Ukraine's cities open to freezing blackouts and shifts the momentum of the war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russia hammers ukraine s power grid as truce efforts fray",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Surging Fuel Costs Push U.S. Inflation to 3.7 Percent",
+      "summary": "Rising gas prices pushed American inflation up to 3.7 percent in September, triggering the worst day for U.S. stocks in months. The sudden jump complicates plans for the Federal Reserve to cut borrowing costs anytime soon. Meanwhile, the IMF warned that economies across the world have burned through their rainy-day cushions.",
+      "why": "High inflation keeps interest rates stuck at painful levels, making mortgages, car loans, and everyday groceries more expensive for ordinary people.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "surging fuel costs push u s inflation to 3 7",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "AI Pioneer Character.ai Goes Bankrupt Under Legal Pressure",
+      "summary": "The chatbot maker filed for Chapter 11 bankruptcy after getting buried by massive computer server bills and wrongful death lawsuits. Regulators and parents have accused the company of failing to protect young users from psychological harm. It marks the first high-profile collapse of a consumer startup from the generative AI boom.",
+      "why": "The failure is a splash of cold water showing that running giant AI models is wildly expensive and that tech companies can no longer outrun real-world liabilities.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ai pioneer character ai goes bankrupt under legal pressure",
+      "date": "2026-10-14"
     }
   ]
 }
