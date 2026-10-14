@@ -3749,6 +3749,16 @@
       "mode": "afternoon",
       "fp": "vatican confirms pope leo is battling lung cancer",
       "date": "2026-10-14"
+    },
+    {
+      "headline": "Commercial Ships Sunk in the Strait of Hormuz Amid Escalating Iran Strikes",
+      "summary": "Two container ships, including the Singapore-flagged GFS Pride, sank near the Strait of Hormuz after being struck by Iranian missiles and naval mines. The sinkings come as attacks on commercial vessels in the corridor spike dramatically.",
+      "why": "The Strait of Hormuz is the world's most important energy artery. Sinking cargo ships there is like throwing spike strips across global trade's main highway, risking a major military confrontation and an immediate shock to world oil supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "commercial ships sunk in the strait of hormuz amid escalating",
+      "date": "2026-10-14"
     }
   ]
 }
