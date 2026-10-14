@@ -3809,6 +3809,16 @@
       "mode": "evening",
       "fp": "ai pioneer character ai goes bankrupt under legal pressure",
       "date": "2026-10-14"
+    },
+    {
+      "headline": "Houthi Missiles Strike Saudi Aramco Headquarters as Ships Sink in Hormuz",
+      "summary": "Yemen's Houthi forces hit Saudi Aramco's main corporate headquarters in Dhahran with missiles and drones, setting fire to top executive offices. At the same time, two commercial cargo vessels sank near the Strait of Hormuz following strikes, marking an abrupt surge of attacks across the Persian Gulf.",
+      "why": "This is a severe military escalation aimed straight at the core of the global energy system. Hitting Aramco's head office is like taking a direct shot at the nerve center of world oil, not just an isolated pipeline. With commercial ships also sinking in the planet's most vital trade choke point, it dramatically raises the danger of direct regional war and an immediate energy shock.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "houthi missiles strike saudi aramco headquarters as ships sink in",
+      "date": "2026-10-14"
     }
   ]
 }
