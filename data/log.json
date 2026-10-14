@@ -3649,6 +3649,56 @@
       "mode": "evening",
       "fp": "french school protests explode into nationwide unrest",
       "date": "2026-10-13"
+    },
+    {
+      "headline": "The U.S.\u2013Iran War Tightens Its Grip on Global Oil",
+      "summary": "Fighting between the U.S. and Iran has entered its eighth month, keeping the Strait of Hormuz clogged and perilous for tankers. With this vital sea lane choked, fuel prices around the world are soaring. Ceasefire proposals continue to fall flat as both sides remain locked in a tense military standoff.",
+      "why": "When the world's busiest oil artery gets blocked, shipping costs spike and everything from groceries to plane tickets becomes more expensive.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the u s iran war tightens its grip on global",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Russian Barrage Hammers Ukraine's Grid Amid Starlink Troubles",
+      "summary": "A massive wave of Russian ballistic missiles and drones battered power stations across Ukraine, plunging cities into emergency blackouts ahead of winter. Ukrainian air defenses struggled during the assault after unexpected speed caps throttled their military Starlink terminals. The disruptions left troops scrambling for backup links while civilian repair crews rushed to restore heat and water.",
+      "why": "Freezing winter blackouts threaten millions of ordinary families while showing how relying on private satellite companies can suddenly leave an army blind.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russian barrage hammers ukraine s grid amid starlink troubles",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Washington Eases Russian Fuel Bans to Tame Record Prices",
+      "summary": "The White House agreed to allow imports of Russian diesel to cool off sky-high fuel costs, sparking immediate fury on Capitol Hill. A bipartisan coalition of senators called the sanctions waiver a betrayal that directly funds Moscow's war effort. U.S. officials argue the relief is essential to keep truckers, farms, and factories moving.",
+      "why": "It reveals how soaring energy bills can force leaders to bend their own foreign policy rules just to give voters breathing room at the pump.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "washington eases russian fuel bans to tame record prices",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "The Global AI Boom Pushes Taiwan into High Gear",
+      "summary": "The IMF sharply bumped Taiwan's projected economic growth to nearly eleven percent, outpacing every other economy in Asia. The island manufactures the vast majority of advanced chips that power artificial intelligence models worldwide. As tech giants race to buy hardware, cash and orders are pouring in like never before.",
+      "why": "The world has effectively placed all its advanced digital eggs into one small basket, making global tech heavily dependent on a single geopolitical hotspot.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the global ai boom pushes taiwan into high gear",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Canada Freezes U.S. Military Deal as Trade Tensions Flare",
+      "summary": "Ottawa halted plans to buy sixteen American-made Black Hawk helicopters for Canadian special forces. The Carney government made the move after facing steep U.S. tariffs and diplomatic clashes with the White House. Canada is now looking to source defense gear from Europe or build it at home instead of leaning on Washington.",
+      "why": "When the world's friendliest neighbors start canceling defense contracts, it means long-standing alliances are fraying down to the bone.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "canada freezes u s military deal as trade tensions flare",
+      "date": "2026-10-14"
     }
   ]
 }
