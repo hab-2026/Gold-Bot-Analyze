@@ -1,166 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Gulf diplomacy stalls as oil prices surge past $100",
-      "summary": "Peace talks in Oman to reopen the blocked Strait of Hormuz collapsed following fresh regional missile strikes. Western outlets warn of another inflation wave, while Middle Eastern media point to broken trust between Iran and its neighbors. With key shipping lanes and pipelines squeezed, crude oil prices jumped past $100 a barrel.",
-      "why": "When the world's main fuel pipe gets squeezed, prices go up for everyone at the gas pump and grocery checkout.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "gulf diplomacy stalls as oil prices surge past 100",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Russian missile hits Ukrainian rail hub right on NATO's doorstep",
-      "summary": "A Russian missile strike hit a Ukrainian railway station near Poland shortly after top European officials left the area. Moscow claimed it targeted weapons shipments, while European allies saw it as a deliberate scare tactic aimed at their borders. The strike comes as fuel shortages make moving goods across the region even harder.",
-      "why": "Bombing right on NATO's fence line dramatically raises the chance that an errant missile drags neighboring nations directly into the war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "russian missile hits ukrainian rail hub right on nato s",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "White House pushes full speed ahead on AI despite safety warnings",
-      "summary": "The US administration rejected calls from AI lab founders and lawmakers who wanted a cooling-off period on powerful models. Officials argue that taking your foot off the gas pedal now would simply hand the crown to China. Top researchers warn that racing forward without seatbelts makes catastrophic accidents almost impossible to prevent.",
-      "why": "It locks the world into an unchecked tech race where speed beats safety, shaping how future generations live and work.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "white house pushes full speed ahead on ai despite safety",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Yemen's conflict explodes again, derailing regional peace",
-      "summary": "Fierce fighting broke out in Taiz as Saudi-backed troops clashed with Houthi forces, snapping months of quiet. The rebels claimed fresh missile and drone attacks on Saudi military sites, prompting new airstrikes. Local sources say this sudden explosion of fighting directly torpedoed broader Middle East de-escalation talks.",
-      "why": "Reigniting this war puts critical shipping lanes in the crosshairs and pulls regional powers right back into a costly military quagmire.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "yemen s conflict explodes again derailing regional peace",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Fuel price shock ignites street protests across Syria",
-      "summary": "Protesters shut down major highways and burned tires across Syrian cities after fuel prices jumped sharply overnight. The price spikes, driven by the broader regional energy crunch, have left everyday families struggling to afford basic bus fare and heating. Public anger boiled over quickly as people reached their financial breaking point.",
-      "why": "It shows how rising world energy costs act like a spark in dry grass, quickly turning into food and fuel crises in vulnerable nations.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "fuel price shock ignites street protests across syria",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Saudi Arabia's Crucial Oil Pipeline Knocked Out for Weeks",
-      "summary": "Officials confirmed today that Saudi Arabia's East-West crude pipeline will stay largely offline for three to five weeks after drone strikes badly damaged pumping stations. Because shipping through the Strait of Hormuz is already paralyzed by regional war, this 745-mile pipeline was the kingdom's only major detour to send 4 to 5 million barrels of oil a day out through the Red Sea.",
-      "why": "This suddenly chokes off around 4% to 5% of the world's daily oil supply when alternative routes are already shut. Saudi export reserves could run dry within days, threatening a severe global energy supply shock that has already driven oil prices past $108 a barrel.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "saudi arabia s crucial oil pipeline knocked out for weeks",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Oil tops $100 as US-Iran clashes squeeze the Strait of Hormuz",
-      "summary": "Crude oil prices surged past $100 a barrel after the US military destroyed Iranian tankers following an attack on an American naval vessel. In response, regional transit talks froze and Houthi fighters launched fresh strikes across Yemen and Saudi Arabia. Tanker traffic through the Persian Gulf is slowing down as shipping insurers pull coverage.",
-      "why": "When the world's main oil tap gets pinched, higher prices hit everything from pump gas to grocery deliveries within days.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "oil tops 100 as us iran clashes squeeze the strait",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Global temperature records break again as August marks hottest month",
-      "summary": "Scientists confirmed that the past month was the hottest single month ever measured on Earth, beating out previous heat peaks. Massive wildfires in Southeast Asia and South America added tens of millions of tons of emissions in mere days, overwhelming local air quality. Farmers and energy operators worldwide are struggling to keep irrigation systems and power grids from failing under the heat.",
-      "why": "Extreme heat acts like a hidden tax on the world, spoiling harvests and driving up utility bills everywhere.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "global temperature records break again as august marks hottest month",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Tech stocks tumble as AI founders warn of dangerous speed",
-      "summary": "Tech shares dropped sharply after bosses from Anthropic and OpenAI warned that frontier AI is advancing too fast without safeguards. Donald Trump pushed back immediately, calling the safety warnings an excuse to stifle American tech and promising zero new regulations. Investors are caught between fears of uncontrollable software and the threat of political chaos.",
-      "why": "The standoff will decide whether artificial intelligence faces guardrails or races ahead like a car without brakes.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "tech stocks tumble as ai founders warn of dangerous speed",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Trump tells Ukraine to halt strikes on Russian fuel refineries",
-      "summary": "Donald Trump warned Ukrainian President Volodymyr Zelenskyy to stop hitting Russian fuel depots because the strikes are pushing global diesel prices too high. Meanwhile, Canada stepped forward with fresh air defense funding to shield Ukrainian cities ahead of winter. The split highlights growing friction between Western allies over how aggressively Ukraine can strike back.",
-      "why": "If Washington ties military aid to energy market calm, Kyiv will have far less room to fight on its own terms.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "trump tells ukraine to halt strikes on russian fuel refineries",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Brazil braces for a photo-finish election between Lula and Bolsonaro",
-      "summary": "Fl\u00e1vio Bolsonaro has pulled level with President Luiz In\u00e1cio Lula da Silva in key swing states, setting the stage for a tense rematch of Brazilian ideologies. Lula is defending his social programs and environmental protections, while the younger Bolsonaro promises deregulation and aggressive law-and-order policing. The race has deeply polarized voters across Latin America's economic powerhouse.",
-      "why": "Who wins determines whether the Amazon rainforest is guarded closely or opened back up for heavy industrial expansion.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "brazil braces for a photo finish election between lula and",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Russia hammers Ukrainian power and trains ahead of winter",
-      "summary": "New waves of strikes targeted Ukrainian passenger trains and energy networks, knocking out critical parts of the power grid. Moscow issued fresh warnings to European allies helping Kyiv, while NATO insisted the attacks will not shake foreign support. The blitz aims to freeze Ukraine's civilian infrastructure just before temperatures plunge.",
-      "why": "Blacking out heating and transit during freezing months turns everyday survival into a humanitarian crisis and tests the West's staying power.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "russia hammers ukrainian power and trains ahead of winter",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Oil spikes past $100 as Middle East peace talks collapse",
-      "summary": "Drone attacks knocked out key Saudi pipelines for several weeks, tightening oil taps right when supplies were already stretched thin. In response, Gulf states broke off crucial maritime security talks with Iran. The sudden threat to shipping chokepoints sent global crude prices surging past $100 a barrel.",
-      "why": "High oil acts like an immediate hidden tax on everything, driving up the price of your commute, your groceries, and your home heating bill.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "oil spikes past 100 as middle east peace talks collapse",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "US scraps major limits on power plant pollution",
-      "summary": "The Environmental Protection Agency repealed nationwide caps on carbon emissions from coal and gas power plants. Backers say keeping old plants running lowers electric bills and protects the grid during peak demand. Opponents argue the rollback wipes out years of climate progress and opens the door to dirty air.",
-      "why": "When the world's largest economy takes the brakes off industrial emissions, international climate targets become almost impossible to reach.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us scraps major limits on power plant pollution",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "US and Europe clash over who writes the rules for AI",
-      "summary": "Washington is leaning heavily toward ditching safety guardrails so homegrown tech firms can sprint ahead of overseas rivals. At the same time, European leaders warned their economies cannot afford to become digital satellites dependent on American or Chinese software. This split is turning cutting-edge technology into a fractured, high-stakes trade race.",
-      "why": "The countries that build and police artificial intelligence will decide how future jobs, privacy, and military weapons work across the globe.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "us and europe clash over who writes the rules for",
-      "date": "2026-09-14"
-    },
-    {
-      "headline": "Cities and states sue to halt aggressive US immigration crackdown",
-      "summary": "A coalition of state attorneys general and major city mayors filed emergency lawsuits to freeze sweeping federal immigration restrictions. The contested rule cuts off green cards for legal immigrants who rely on basic social safety nets like housing or healthcare aid. Local leaders warn the sudden changes will hurt local labor pools and swamp local clinics.",
-      "why": "Pulling the rug out from under millions of legal immigrants immediately ripples through essential industries like farming, elder care, and hospitals.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "cities and states sue to halt aggressive us immigration crackdown",
-      "date": "2026-09-14"
-    },
-    {
       "headline": "NATO Jets Down Drone Over Lithuania in Dangerous Baltic Standoff",
       "summary": "A NATO fighter shot down a drone over Lithuania shortly after a Russian warship fired flares at a Danish military helicopter. Both militaries are heavily patrolling the Baltic region with little room for error. It is like two armed neighbors pacing the property line in thick fog, where one bad call can spark an all-out brawl.",
       "why": "A direct military clash between NATO and Russia could trigger alliance mutual-defense pacts and pull dozens of nations into a wider war.",
@@ -3819,6 +3659,26 @@
       "mode": "monitor",
       "fp": "houthi missiles strike saudi aramco headquarters as ships sink in",
       "date": "2026-10-14"
+    },
+    {
+      "headline": "Iranian strikes sink two cargo ships in the Strait of Hormuz",
+      "summary": "Iranian forces hit commercial vessels in the Strait of Hormuz with missiles and naval mines, sinking at least two ships, including the Singapore-flagged container carrier GFS Pride. The crews escaped safely, but Tehran announced a heightened naval presence and expanded patrols across the corridor.",
+      "why": "The Strait of Hormuz is the world's primary oil artery, handling roughly a fifth of global petroleum traffic. Sinking commercial ships in this narrow bottleneck threatens to choke global fuel shipments, send energy prices surging, and trigger direct military clashes with international naval forces.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "iranian strikes sink two cargo ships in the strait of",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "SpaceX imposes sudden speed limits on Ukraine's military Starlink service",
+      "summary": "SpaceX placed abrupt speed caps on Starshield and Starlink terminals used by Ukrainian forces, shutting off satellite internet connections whenever equipment travels faster than 100 miles per hour. The change immediately crippled high-speed interceptor drones and disrupted active defense operations.",
+      "why": "Ukraine relies on Starlink as the digital backbone for coordinating troop movements and steering rapid defense drones against incoming attacks. Throttling that connectivity during heavy missile bombardments severely compromises air defenses and alters the tactical balance on the front lines overnight.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "spacex imposes sudden speed limits on ukraine s military starlink",
+      "date": "2026-10-15"
     }
   ]
 }
