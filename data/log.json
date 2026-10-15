@@ -3739,6 +3739,56 @@
       "mode": "afternoon",
       "fp": "sudden fuel spikes send wholesale prices jumping",
       "date": "2026-10-15"
+    },
+    {
+      "headline": "Houthi strikes hit Saudi capital and oil hubs",
+      "summary": "Drone and missile attacks struck Riyadh's main airport and nearby energy infrastructure, killing 14 people and wounding hundreds. Saudi officials promised a forceful military response while air defenses scrambled to intercept follow-up barrages. The strikes bring the threat of direct regional warfare back to the world's most critical fuel corridors.",
+      "why": "Attacking Saudi oil hubs can choke global energy flows like a kink in a hose, driving up gas and food prices everywhere overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "houthi strikes hit saudi capital and oil hubs",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Tech and intelligence cracks hit Ukraine's defense",
+      "summary": "Russian missiles slammed into Kyiv after Western allies failed to pass along critical early warning radar data. Adding to the crisis, SpaceX restricted Starlink internet access that frontline soldiers rely on to fly their drones. Ukrainian forces kept firing back at Russian refineries, but defense teams are struggling with sudden blind spots.",
+      "why": "Cutting off internet signals and radar tips leaves defending troops blind, which can tilt the whole war before help arrives.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "tech and intelligence cracks hit ukraine s defense",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Surprise US inflation jump threatens new rate hikes",
+      "summary": "Consumer prices climbed faster than expected last month, blindsiding central bankers who expected price spikes to settle down. The surprise reading put interest rate hikes back on the table for the Federal Reserve and sparked a sharp sell-off across tech stocks. Investors now worry that borrowing money will remain painfully expensive well into next year.",
+      "why": "Higher interest rates work like an emergency brake on the global economy, making everyday mortgages, car payments, and business hiring harder to afford.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "surprise us inflation jump threatens new rate hikes",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Diplomatic fight erupts over Gaza-linked Nobel Peace Prize",
+      "summary": "The Nobel committee awarded its peace prize to Navi Pillay, a veteran judge who led inquiries concluding Israel committed genocide in Gaza. The decision drew fury from President Donald Trump, who denounced the committee and threatened political fallout for Norway. The spat reveals a widening rift between international legal bodies and Western political leaders.",
+      "why": "International treaties only work if powerful leaders listen to the whistle, and attacking the referees makes future war crimes harder to stop.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "diplomatic fight erupts over gaza linked nobel peace prize",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Vatican faces uncertainty as Pope Leo undergoes surgery",
+      "summary": "Pope Leo XIV is recovering in the hospital after doctors operated to treat lung cancer. The Vatican broke traditional secrecy by sharing open updates, noting the pontiff is in good spirits and handling light paperwork from his bed. Even so, a long healing process raises tough questions about who guides Church governance in the interim.",
+      "why": "When the head of a community of 1.4 billion people is sidelined, major global peace initiatives and charity networks can end up on pause.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "vatican faces uncertainty as pope leo undergoes surgery",
+      "date": "2026-10-15"
     }
   ]
 }
