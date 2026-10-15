@@ -3679,6 +3679,16 @@
       "mode": "monitor",
       "fp": "spacex imposes sudden speed limits on ukraine s military starlink",
       "date": "2026-10-15"
+    },
+    {
+      "headline": "Two commercial ships sink in the Strait of Hormuz after Iranian strikes",
+      "summary": "Over the past day, two cargo vessels sank near the Strait of Hormuz following Iranian missile and naval mine attacks. Iran announced it is stepping up military surveillance and will block maritime transit until the United States ends its naval blockade, while Washington warned that direct military retaliation is imminent.",
+      "why": "The Strait of Hormuz is the world's primary energy artery, handling about twenty percent of global oil transit. Commercial ships actually being sunk shuts down international tanker traffic, drives up global energy prices overnight, and sharply raises the risk of direct naval combat between the United States and Iran.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "two commercial ships sink in the strait of hormuz after",
+      "date": "2026-10-15"
     }
   ]
 }
