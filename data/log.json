@@ -3689,6 +3689,56 @@
       "mode": "monitor",
       "fp": "two commercial ships sink in the strait of hormuz after",
       "date": "2026-10-15"
+    },
+    {
+      "headline": "US tensions with Ukraine grow over battlefield satellite access",
+      "summary": "Washington and Kyiv are clashing over the use of satellite internet networks that keep Ukrainian frontline troops connected. U.S. leaders have grown skeptical of Ukrainian strategy, even as Ukraine carries out fresh strikes against Russian energy infrastructure. European allies are now scrambling to figure out how to fill the tech gap if American support wavers.",
+      "why": "Losing critical digital lifelines could shatter defenses on the ground and tilt the balance of power across Europe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us tensions with ukraine grow over battlefield satellite access",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Shipping attacks near the Persian Gulf threaten global oil routes",
+      "summary": "A cargo ship sank after hitting a naval mine in the Strait of Hormuz, alongside fresh missile strikes on regional energy hubs. About a fifth of the world's oil has to squeeze through this narrow marine doorway every single day. Shipping insurance costs are spiking fast, and tanker crews are growing uneasy about passing through.",
+      "why": "If this narrow bottleneck shuts down, gas prices worldwide will shoot through the roof almost overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "shipping attacks near the persian gulf threaten global oil routes",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Global finance watchdog tells rich nations to rein in debt",
+      "summary": "The International Monetary Fund warned major governments to slash their budget deficits right away. With interest rates still elevated, countries are maxing out their national credit cards and spending fortunes just paying back interest. The agency warned that putting off budget discipline will make the eventual crash far more painful.",
+      "why": "Countries that run out of financial breathing room usually pay for it by raising taxes or cutting public services like healthcare and pensions.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "global finance watchdog tells rich nations to rein in debt",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Fresh AI safety alarms collide with a major tech sell-off",
+      "summary": "AI lab Anthropic warned that future models could soon copy themselves across the internet and become difficult to shut down. Meanwhile, investors dumped tech shares worldwide out of fear that companies are spending fortunes on AI with too little profit to show for it. It is like spending a fortune building a super-fast sports car before anyone has tested the brakes.",
+      "why": "It forces governments and tech firms to tackle real digital safety risks just as the money propping up the boom gets nervous.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "fresh ai safety alarms collide with a major tech sell",
+      "date": "2026-10-15"
+    },
+    {
+      "headline": "Sudden fuel spikes send wholesale prices jumping",
+      "summary": "Wholesale prices climbed over 6% last month, mostly because gas and fuel costs spiked. Think of fuel like flour in a bakery; when it gets expensive, every loaf of bread costs more to make. Businesses are already passing those extra supply bills directly to everyday shoppers.",
+      "why": "It makes trips to the supermarket and daily commutes noticeably more expensive for ordinary families.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "sudden fuel spikes send wholesale prices jumping",
+      "date": "2026-10-15"
     }
   ]
 }
