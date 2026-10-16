@@ -3709,6 +3709,16 @@
       "mode": "monitor",
       "fp": "commercial vessels sunk in major hormuz escalation",
       "date": "2026-10-16"
+    },
+    {
+      "headline": "Russian Drones Strike Chemical Tankers Inside Romanian Waters",
+      "summary": "Russian attack drones entered Romanian airspace and hit two commercial chemical tankers near the mouth of the Danube River. The ships caught fire, and rescue teams are searching for missing crew members.",
+      "why": "Romania is a NATO member. Dropping explosives right in a NATO country's front yard and hitting civilian trade ships is a sharp military escalation. It turns theoretical spillover risks into real danger of pulling the alliance directly into the fight.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "russian drones strike chemical tankers inside romanian waters",
+      "date": "2026-10-16"
     }
   ]
 }
