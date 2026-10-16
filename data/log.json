@@ -3719,6 +3719,56 @@
       "mode": "monitor",
       "fp": "russian drones strike chemical tankers inside romanian waters",
       "date": "2026-10-16"
+    },
+    {
+      "headline": "White House Restricts Ukraine's Satellite Internet as Truce Unravels",
+      "summary": "U.S. officials ordered cutbacks to Ukraine's military satellite connectivity after Kyiv launched fresh drone strikes against Russian fuel refineries. Ukrainian leaders pushed back, arguing that a White House-announced energy truce was ignored by Moscow's continued bombardments. With satellite links throttled, frontline Ukrainian units are struggling to steer drones and direct troops in active combat.",
+      "why": "Cutting off battlefield digital communications is like taking away a commander's eyes, directly shifting the balance of power on the front line.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "white house restricts ukraine s satellite internet as truce unravels",
+      "date": "2026-10-16"
+    },
+    {
+      "headline": "Wave of Houthi Strikes on Saudi Airport and Yemen Palace Stokes Regional War",
+      "summary": "Yemen's Houthi forces launched repeated missile and drone attacks on Riyadh's international airport and bombed the presidential compound in Aden. The strikes killed dozens of people, disrupted commercial flights, and forced diplomats to cancel a high-level EU-Gulf summit in Saudi Arabia. Saudi-led forces responded with heavy retaliatory airstrikes, warning that the Iran-aligned group has acquired far more sophisticated weapons.",
+      "why": "Strikes on major civil airports and government seats threaten key global oil shipping lanes and push the Gulf toward a wider interstate war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "wave of houthi strikes on saudi airport and yemen palace",
+      "date": "2026-10-16"
+    },
+    {
+      "headline": "Hotter Inflation Stirs Fears of Higher Interest Rates Around the World",
+      "summary": "A sharp jump in gas prices pushed U.S. annual inflation back up to 3.7%, defying hopes that price pressures had settled down. The surprise spike rattled global financial markets and forced investors to prepare for central banks to hike interest rates again. Sovereign bond yields surged as lenders demanded higher returns to keep up with persistent inflation.",
+      "why": "When borrowing stays expensive in the world's biggest economy, home mortgages rise for regular families and businesses pull back on hiring.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "hotter inflation stirs fears of higher interest rates around the",
+      "date": "2026-10-16"
+    },
+    {
+      "headline": "Europe Puts Brakes on Chinese Cars to Shield Its Factories",
+      "summary": "European leaders moved to cap Chinese hybrid car imports at 350,000 per year and urged Britain to join their tariff wall. European governments worry that heavily subsidized Chinese vehicles are hollowing out local automakers and driving a massive trade deficit. Beijing denounced the restrictions as unfair protectionism and warned that retaliation could follow.",
+      "why": "If two of the world's largest economic blocs lock each other out, consumer goods get more expensive and the global transition to clean energy slows down.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "europe puts brakes on chinese cars to shield its factories",
+      "date": "2026-10-16"
+    },
+    {
+      "headline": "Critical Cash Shortage Leaves United Nations Near Financial Paralysis",
+      "summary": "The United Nations is running dangerously low on money as major member countries fall behind on paying billions in required dues. Leadership warned that without emergency funding, the organization will soon be unable to pay staff or maintain active peacekeeping missions. The cash shortfall arrives alongside steep cuts in international aid budgets, leaving humanitarian relief teams strapped.",
+      "why": "If the world's primary peacekeeping and disaster-relief engine runs out of fuel, the most vulnerable people in war zones lose their only safety net.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "critical cash shortage leaves united nations near financial paralysis",
+      "date": "2026-10-16"
     }
   ]
 }
