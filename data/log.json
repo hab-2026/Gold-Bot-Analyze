@@ -1,106 +1,6 @@
 {
   "entries": [
     {
-      "headline": "NATO Jets Down Drone Over Lithuania in Dangerous Baltic Standoff",
-      "summary": "A NATO fighter shot down a drone over Lithuania shortly after a Russian warship fired flares at a Danish military helicopter. Both militaries are heavily patrolling the Baltic region with little room for error. It is like two armed neighbors pacing the property line in thick fog, where one bad call can spark an all-out brawl.",
-      "why": "A direct military clash between NATO and Russia could trigger alliance mutual-defense pacts and pull dozens of nations into a wider war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "nato jets down drone over lithuania in dangerous baltic standoff",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "August Sets Another Global Heat Record Amid Historic Wildfires",
-      "summary": "Climate scientists confirmed August 2026 was the hottest month ever recorded on Earth, breaking previous historical peaks. Massive wildfires in Southeast Asia also released staggering amounts of smoke and carbon in just a few days. Think of the planet running an unrelenting fever that dries up reservoirs, shrivels crops, and stresses electric grids to their breaking point.",
-      "why": "Persistent extreme heat threatens the global food supply, knocks out power systems, and makes outdoor labor dangerous for millions of workers.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "august sets another global heat record amid historic wildfires",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "Oil Nears $100 as Middle East Shipping Clashes Flare Up",
-      "summary": "Global oil prices jumped near $100 a barrel after clashes between the U.S. and Iran damaged tankers and squeezed key shipping routes. Fresh supply interruptions in Libya and export pauses in Saudi Arabia made the squeeze even tighter. When fuel routes narrow, refineries have to pay extra for every drop, and that price tag quickly rolls downhill to ordinary drivers.",
-      "why": "Expensive crude works like a stealth tax on everyday life, driving up the cost of groceries, commuting, and home energy around the world.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "oil nears 100 as middle east shipping clashes flare up",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "New 50% Tariffs on Canadian Goods Take Effect Across North America",
-      "summary": "The United States put aggressive 50% tariffs on Canadian imports into effect, rattling one of the largest trade relationships on Earth. Factories across the continent pass parts back and forth every day like ingredients in a shared kitchen. These taxes disrupt those tightly wound assembly lines, forcing companies to absorb heavy penalties or halt production.",
-      "why": "Massive border fees between top trading partners make everyday manufactured goods more expensive and risk widespread factory layoffs.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "new 50 tariffs on canadian goods take effect across north",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "BRICS Summit Pushes for New Energy and Payment Systems",
-      "summary": "The expanded 11-member BRICS alliance wrapped up talks in New Delhi with plans to secure critical minerals and build alternate financial pipes. The group wants backup payment networks so members do not have to depend exclusively on Western banks or the U.S. dollar. Even with messy internal rivalries, the bloc is steadily organizing trade outside traditional Western supervision.",
-      "why": "Splitting the world into rival economic tracks makes trade less flexible and reshapes where countries will buy vital resources in the future.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "brics summit pushes for new energy and payment systems",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "AI labs sound the alarm on self-improving software",
-      "summary": "Leading researchers and tech CEOs warned that artificial intelligence is beginning to rewrite and upgrade its own code. Lawmakers from both parties want an immediate pause, but business leaders worry slowing down will hand an edge to foreign competitors. Global stock markets dropped as investors worried governments might slam the brakes on tech investment.",
-      "why": "If machines start teaching and upgrading themselves faster than humans can follow, we risk losing the steering wheel on our own future.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "ai labs sound the alarm on self improving software",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "Federal Reserve signals rate hike, setting up a fight with Trump",
-      "summary": "The central bank signaled it is ready to raise interest rates again to keep inflation down. President Trump blasted the plan, insisting that higher borrowing costs will stall the economy. The standoff tests whether the Fed can steer money policy on its own without political interference.",
-      "why": "Higher interest rates make loans for cars, houses, and credit cards more expensive for everyday families.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "federal reserve signals rate hike setting up a fight with",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "Houthi advances in Yemen threaten key Red Sea shipping lanes",
-      "summary": "Houthi forces captured key territory along Yemen's coast, putting crucial sea trade routes back in the crosshairs. Saudi Arabia asked the United States for military support to halt the push, but the White House declined to step in. Shipping companies are already weighing longer, costlier routes around Africa to dodge attacks.",
-      "why": "When major sea routes get choked off, everything from oil to sneakers takes longer to arrive and costs more at the store.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "houthi advances in yemen threaten key red sea shipping lanes",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "Supreme Court rejects White House push to limit mail-in ballots",
-      "summary": "The Supreme Court struck down administration efforts to restrict mail-in voting across the country. The White House pushed back hard against the decision, arguing remote ballots need far tighter rules. The ruling locks in voting procedures for upcoming elections, ensuring millions of citizens can continue casting ballots by mail.",
-      "why": "Ballot rules decide who gets a voice, directly determining which leaders take power and pass laws that shape everyday life.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "supreme court rejects white house push to limit mail in",
-      "date": "2026-09-15"
-    },
-    {
-      "headline": "Canada pivots toward Europe as U.S. trade fights worsen",
-      "summary": "Prime Minister Mark Carney announced Canada will seek a major economic and security pact with the European Union. Ottawa is looking across the Atlantic after new U.S. tariffs and disputes rattled North American commerce. The shift shows close allies are building backup partnerships to shield themselves from sudden shifts in American policy.",
-      "why": "When long-time neighbors put up trade barriers, factories face higher costs to move parts, and shoppers end up footing the bill.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "canada pivots toward europe as u s trade fights worsen",
-      "date": "2026-09-15"
-    },
-    {
       "headline": "United States officially confirms it has deployed weapons in Earth orbit",
       "summary": "The Pentagon publicly admitted for the first time that the U.S. Space Force has active combat weapons circling the planet. Officials said these orbital weapons are built to defend American forces from enemy attacks, while China and Russia immediately warned against turning space into a battlefield.",
       "why": "For decades, major powers kept space weapons quiet to avoid triggering a scramble in orbit. Admitting they are already stationed up there breaks that silence wide open. It changes orbit from a shared information highway into a recognized front line, drastically raising the danger of a clash between superpowers.",
@@ -3789,6 +3689,26 @@
       "mode": "evening",
       "fp": "vatican faces uncertainty as pope leo undergoes surgery",
       "date": "2026-10-15"
+    },
+    {
+      "headline": "Houthis Strike Yemen's Presidential Palace in Aden",
+      "summary": "Houthi fighters launched a coordinated missile and drone strike directly into the Al-Maashiq presidential palace compound in Aden, the base for Yemen's internationally recognized government. The blast killed at least five people, wounded 16 others, and hit coalition command posts while senior officials were present.",
+      "why": "Hitting the main seat of government is like striking the front door of state power. It is a sharp military escalation that directly endangers political leadership and threatens to pull Saudi Arabia deeper into a wider regional conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "houthis strike yemen s presidential palace in aden",
+      "date": "2026-10-16"
+    },
+    {
+      "headline": "Commercial Vessels Sunk in Major Hormuz Escalation",
+      "summary": "Attacks on maritime shipping near the Strait of Hormuz spiked sharply, leading to the sinking of multiple commercial cargo vessels, including the container carrier GFS Pride, from missile and mine strikes.",
+      "why": "The Strait of Hormuz is the main artery for the world's oil and maritime trade. Sinking cargo ships in this choke point turns regional skirmishes into a direct chokehold on global energy transit and international sea lanes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "commercial vessels sunk in major hormuz escalation",
+      "date": "2026-10-16"
     }
   ]
 }
