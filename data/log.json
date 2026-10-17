@@ -3659,6 +3659,56 @@
       "mode": "evening",
       "fp": "critical cash shortage leaves united nations near financial paralysis",
       "date": "2026-10-16"
+    },
+    {
+      "headline": "US Freezes New Russia Sanctions Package",
+      "summary": "President Trump signed an order pausing new sanctions on Russia's economy to push for an energy ceasefire. European allies worry the move lets Moscow off the hook while Russian strikes continue to hammer Ukraine's power plants. It is like easing up on a wrestling hold right in the middle of a match.",
+      "why": "Softening pressure on Russian energy alters world oil flows and tests unity between Washington and Europe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us freezes new russia sanctions package",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Russian Strikes Leave a Million Ukrainians Without Power",
+      "summary": "A heavy wave of Russian missiles hit utility plants, cutting electricity for over a million people. The timing is brutal because cold winter temperatures are setting in across the country. Ukraine responded by announcing plans to resume retaliatory strikes on Russian oil refineries.",
+      "why": "Destroying power grids weaponizes freezing weather against ordinary civilians and risks escalating an infrastructure war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russian strikes leave a million ukrainians without power",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Yemen Rebels Escalate Strikes Across the Gulf",
+      "summary": "Houthi fighters launched fresh strikes against Riyadh's main airport and southern Yemen, while seizing strategic heights near Taiz. The attacks show the group can still hit sensitive targets despite international naval patrols. Regional leaders are scrambling to keep vital business hubs and transport networks safe.",
+      "why": "Reigniting cross-border attacks threatens key maritime corridors and risks dragging regional powers back into open conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "yemen rebels escalate strikes across the gulf",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Cuba Nears Collapse Under Deepening Energy Crisis",
+      "summary": "Tighter American sanctions have choked off fuel supplies, plunging large parts of Cuba into prolonged blackouts. Pharmacies and clinics are running out of basic medicines, leaving families without essentials. The island's economy is running on empty, like a car sputtering with a dry gas tank.",
+      "why": "A complete breakdown of basic utilities could spark a severe humanitarian crisis and trigger massive new migration flows.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "cuba nears collapse under deepening energy crisis",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "China and North Korea Open Long-Delayed Border Lifeline",
+      "summary": "Beijing and Pyongyang opened the New Yalu River Bridge to traffic after twelve years of delays. The crossing serves as a giant trade artery between North Korea and China's industrial north. It gives North Korea a dependable economic back door that bypasses Western penalties.",
+      "why": "Locking in this trade route weakens global sanction pressure and tightens the strategic partnership between Beijing and Pyongyang.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "china and north korea open long delayed border lifeline",
+      "date": "2026-10-17"
     }
   ]
 }
