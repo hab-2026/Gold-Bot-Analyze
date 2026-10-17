@@ -58,8 +58,12 @@ def main() -> None:
     except UsageLimitError as exc:
         print(f"[monitor] Usage limit reached: {exc}")
     except Exception as exc:  # noqa: BLE001
-        print(f"[monitor] failed: {exc}")
-        sys.exit(1)
+        msg = str(exc)
+        if "429" in msg or "RESOURCE_EXHAUSTED" in msg:
+            print(f"[monitor] API quota hit, skipping this run: {exc}")
+        else:
+            print(f"[monitor] failed: {exc}")
+            sys.exit(1)
 
     if usage.near_limit() and not usage.already_warned():
         try:
