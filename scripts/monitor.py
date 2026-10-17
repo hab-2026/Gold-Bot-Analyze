@@ -3,7 +3,7 @@ Continuous monitor — run by GitHub Actions every 2 hours.
 
     python scripts/monitor.py
 
-One cheap grounded Gemini call scans for breaking news. If something CRITICAL
+One cheap Groq call scans for breaking news. If something CRITICAL
 is happening it sends an immediate Telegram alert; otherwise it stays silent.
 """
 
@@ -56,7 +56,7 @@ def main() -> None:
                     )
                 print(f"[monitor] breaking alert sent ({len(fresh)} items)")
     except UsageLimitError as exc:
-        print(f"[monitor] {exc}")
+        print(f"[monitor] Usage limit reached: {exc}")
     except Exception as exc:  # noqa: BLE001
         print(f"[monitor] failed: {exc}")
         sys.exit(1)
