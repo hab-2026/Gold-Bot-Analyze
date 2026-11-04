@@ -1,66 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Yemen Government Launches Massive Military Offensive Against Houthis as Strikes Target Saudi Oil Facilities",
-      "summary": "Yemen's Saudi-backed government declared a sweeping military campaign to reclaim all territory held by Houthi rebels. The announcement followed heavy Saudi airstrikes on Sanaa and Saada, while Houthi forces encircled the strategic city of Taiz and claimed retaliatory drone and missile attacks on Saudi Aramco oil sites in Riyadh and Khurais.",
-      "why": "This breaks years of relative calm and reignites a full-scale regional war. It puts critical Gulf energy supplies and the Bab el-Mandeb shipping corridor\u2014one of the world's most vital maritime choke points\u2014directly in the crosshairs.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "yemen government launches massive military offensive against houthis as strikes",
-      "date": "2026-10-04"
-    },
-    {
-      "headline": "Iran keeps the Strait of Hormuz shut as maritime standoff deepens",
-      "summary": "Tehran declared that the world's most critical oil passage will stay closed until Washington meets its terms. Tankers remain anchored across the region, while the U.S. pauses escort missions amid fragile negotiations. The disruption is choking crude shipments and sending fuel prices jumping globally.",
-      "why": "It acts like a tourniquet on the global economy, driving up the cost of everyday goods from gas pumps to groceries.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "iran keeps the strait of hormuz shut as maritime standoff",
-      "date": "2026-10-04"
-    },
-    {
-      "headline": "Russia strikes Kyiv bridge during German chancellor's visit",
-      "summary": "Russian missiles struck critical transit infrastructure in Ukraine's capital right as Germany's chancellor arrived for emergency talks. The attack is part of a wider campaign targeting power plants and transport corridors before freezing weather sets in. Western allies are being pressured to speed up air-defense supplies.",
-      "why": "It aims to break Ukrainian civilian resolve and tests whether European allies can maintain long-term support.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "russia strikes kyiv bridge during german chancellor s visit",
-      "date": "2026-10-04"
-    },
-    {
-      "headline": "Yemen launches major offensive against Houthis as Red Sea attacks flare",
-      "summary": "Yemen's government forces announced a broad military offensive against Houthi fighters following renewed explosions near cargo vessels off the coast. Key energy routes and pipelines in the Arabian Peninsula are facing heightened threats as fighting escalates. The clashes show that peace talks in the country have hit a wall.",
-      "why": "It threatens to reignite a brutal civil war while keeping a dangerous chokehold on international shipping routes.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "yemen launches major offensive against houthis as red sea attacks",
-      "date": "2026-10-04"
-    },
-    {
-      "headline": "Brazil votes in high-stakes election that will shape Amazon policy",
-      "summary": "Voters across Brazil are casting ballots in a fiercely contested presidential showdown between President Lula and the Bolsonaro coalition. The campaign closed with tense rallies reflecting a nation divided down the middle over the economy and political power. The next administration will steer South America's powerhouse economy for years to come.",
-      "why": "It determines how Latin America's largest economy runs and whether the Amazon rainforest gets protected or cleared.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "brazil votes in high stakes election that will shape amazon",
-      "date": "2026-10-04"
-    },
-    {
-      "headline": "U.S. completes military drawdown from Iraq after 20-year presence",
-      "summary": "American troops have vacated their remaining bases in Iraq, officially ending a military deployment that began back in 2003. The exit leaves Baghdad entirely responsible for keeping ISIS remnants contained while managing strong regional pressure. Neighboring powers are already jostling to step into the empty space.",
-      "why": "It closes the book on a defining modern military era and triggers a fresh contest for influence across the Middle East.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "u s completes military drawdown from iraq after 20 year",
-      "date": "2026-10-04"
-    },
-    {
       "headline": "Clashes near Bab el-Mandeb threaten global shipping lanes",
       "summary": "Yemeni forces pushed toward the Bab el-Mandeb strait in a bid to push back Houthi fighters who have menaced commercial ships. Recent strikes on regional energy routes have kept oil markets jittery and forced cargo ships onto long, expensive detours. Controlling this bottleneck is like controlling the front door to world trade.",
       "why": "When this tiny waterway gets choked off, energy prices spike and shipping delays drive up everyday costs worldwide.",
