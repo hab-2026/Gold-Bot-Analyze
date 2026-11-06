@@ -1,66 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Optogenetics pioneers win the 2026 Nobel Prize in Medicine",
-      "summary": "The 2026 Nobel Prize in Medicine went to Karl Deisseroth, Peter Hegemann, and Georg Nagel for creating optogenetics. Their discovery lets scientists turn individual brain cells on or off with flashes of light, like flipping a light switch inside the brain. The breakthrough gives researchers an exact map of neural circuits instead of just guessing from blurry scans.",
-      "why": "It gives scientists a precise tool to understand and eventually treat devastating brain disorders like Parkinson's, epilepsy, and severe depression.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "optogenetics pioneers win the 2026 nobel prize in medicine",
-      "date": "2026-10-06"
-    },
-    {
-      "headline": "Brazil heads to a tense presidential runoff between Lula and Bolsonaro",
-      "summary": "Brazil's presidential election is heading to a tight runoff after right-wing candidate Fl\u00e1vio Bolsonaro led incumbent President Luiz In\u00e1cio Lula da Silva in the first round. Neither candidate won an outright majority, leaving the nation polarized over the cost of living and governance. Voters will return to the ballot box on October 25 to choose between two completely opposite visions for the country.",
-      "why": "The outcome determines the direction of Latin America's largest economy and the protection of the Amazon rainforest.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "brazil heads to a tense presidential runoff between lula and",
-      "date": "2026-10-06"
-    },
-    {
-      "headline": "Tensions flare between the US and Iran as oil prices push toward $100",
-      "summary": "Friction between the United States and Iran has escalated following drone attacks and military posturing, pushing crude oil prices toward $100 a barrel. The standoff has put key Middle Eastern shipping routes on edge and triggered heightened security at Western military bases. While both capitals have exchanged diplomatic messages, neither side has backed down.",
-      "why": "A wider conflict risks cutting off critical shipping lanes and driving up fuel and food prices across the world.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "tensions flare between the us and iran as oil prices",
-      "date": "2026-10-06"
-    },
-    {
-      "headline": "Global trade fractures as the US pushes aggressive new tariffs at the G20",
-      "summary": "Trade ministers gathered at the G20 meeting in Milwaukee amid growing friction over sweeping American tariffs and manufacturing protections. Washington urged allies to curb global overproduction, while trading partners warned that retaliatory measures are fracturing the global economy. The clash signals a continuing retreat from open trade toward rival economic camps.",
-      "why": "Higher trade barriers raise everyday shelf prices for consumers and make global manufacturing much more volatile.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "global trade fractures as the us pushes aggressive new tariffs",
-      "date": "2026-10-06"
-    },
-    {
-      "headline": "Spain calls a snap election after housing protests shake the government",
-      "summary": "Spain's government called a snap national election after parliament rejected new rent caps and eviction protections, triggering mass street protests. Soaring housing costs and holiday apartment rentals have locked young people and families out of homes in major cities. The collapse of the ruling coalition reflects how the housing crunch is destabilizing politics across Europe.",
-      "why": "It proves that unaffordable shelter has become an urgent crisis capable of bringing down governments and reshaping European politics.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "spain calls a snap election after housing protests shake the",
-      "date": "2026-10-06"
-    },
-    {
-      "headline": "Yemeni Forces Launch Major Counteroffensive Around Bab el-Mandeb Strait",
-      "summary": "Yemeni government troops, supported by intense Saudi airstrikes and U.S. intelligence sharing, have launched a large-scale military push along the Red Sea coast, reporting the recapture of the strategic port city of Mocha and several coastal positions near the Bab el-Mandeb Strait from Houthi fighters.",
-      "why": "The Bab el-Mandeb Strait is one of the planet's most vital maritime choke points for global energy and trade. A sharp escalation and shifting control here directly endangers international merchant shipping, spikes commercial freight and oil transport risks, and deepens direct foreign military involvement in the conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "yemeni forces launch major counteroffensive around bab el mandeb strait",
-      "date": "2026-10-06"
-    },
-    {
       "headline": "Suspected plague leak at a Russian lab sparks global alert",
       "summary": "Health officials worldwide are on edge after a lab worker in Siberia died from suspected pneumonic plague, with reports of a second casualty emerging. Russian authorities have locked down information, prompting the World Health Organization and Washington to demand immediate answers. It is like smelling smoke in an apartment building while your neighbor refuses to open the door.",
       "why": "An accidental leak of an airborne pathogen risks triggering rapid border closures and testing already fragile global biosecurity systems.",
